@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Treasure Hunt</string>
+    <string name="latitude_text">緯度:\n經度:</string>
+</resources>
